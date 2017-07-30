@@ -52,18 +52,18 @@ repos:
         version: next
         force: yes
     guicommon:
-        repo: https://github.com/agoravoting/agora-gui-common.git
+        repo: https://github.com/apardo/agora-gui-common.git
         version: next
         force: yes
     guiadmin:
-        repo: https://github.com/agoravoting/agora-gui-admin.git
+        repo: https://github.com/apardo/agora-gui-admin.git
         version: next
         force: yes
     guibooth:
-        repo: https://github.com/agoravoting/agora-gui-booth.git
+        repo: https://github.com/apardo/agora-gui-booth.git
         version: next
         force: yes
     guielections:
-        repo: https://github.com/agoravoting/agora-gui-elections.git
+        repo: https://github.com/apardo/agora-gui-elections.git
         version: next
         force: yes
